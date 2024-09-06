@@ -3,6 +3,7 @@
 ###
 
 <p align="left">- Learning Java --> favorite language (completed MOOC.fi 1 and 70% of MOOC.fi 2)<br>- Confident in HTML<br>- Learning CSS & JS --> doing The Odin Project | started 04.09.2024 - foundations Course 55% DONE<br>- Coding Minecraft Plugins (Paper)</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolas-bott&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ###
 
