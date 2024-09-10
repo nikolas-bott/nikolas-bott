@@ -40,4 +40,5 @@
 
 ###
 <hr>
+<h3 align=center>Contact:</h3>
 <h5 align=center>---------- E-Mail: nikolasbott@gmail.com | Discord: ssaloking ----------</h5>
