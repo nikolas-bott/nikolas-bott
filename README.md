@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Learning Java --> favorite language 💙 (completed MOOC.fi 1 ✔️ and 70% of MOOC.fi 2 📈)<br>- Confident in HTML 🥇<br>- Learning CSS & JS --> doing The Odin Project 📊| started 04.09.2024 - foundations Course 70% DONE 📍<br>- Coding Minecraft Plugins (Paper) 🛩️</p>
+<p align="left">- Learning Java --> favorite language 💙 (completed MOOC.fi 1 ✔️ and 72% of MOOC.fi 2 📈)<br>- Confident in HTML 🥇<br>- Learning CSS & JS --> doing The Odin Project 📊| started 04.09.2024 - foundations Course 70% DONE 📍<br>- Coding Minecraft Plugins (Paper) 🛩️</p>
 
 ###
 <hr>
