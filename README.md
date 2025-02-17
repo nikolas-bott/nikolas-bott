@@ -26,7 +26,7 @@
 <p align="center">
   <!-- Development Tools -->
   <strong>Development Tools:</strong><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,idea,npm,vite,gradle,maven,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,idea,vite,postman" />
 </p>
 
 <p align="center">
