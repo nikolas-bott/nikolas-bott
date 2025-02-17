@@ -1,45 +1,61 @@
-<h1 align="left">Current situation:</h1>
+
+<h1 align="center">Hi I am Nikolas 👋</h1>
+<p align="center">&nbsp;</p>
+
+<h2 align="left">Current situation:</h2>
 
 ###
 
-<p align="left">- Learning Java --> favorite language 💙 (completed MOOC.fi 1 ✔️ and 32% of MOOC.fi 2 📈) <br>- Learning CSS & JS --> doing The Odin Project 📊| started 04.09.2024 - Intermediate HTML & CSS 52% DONE📍<br>- Coding Minecraft Plugins (Paper) 🛩️<br>
-- Ambitioned to learn Kotlin (:</p>
+<ul>
+<li> <strong> Programming: </strong> Right now, I’m interested in exploring the depths of web development. So far, I’ve worked with React (Front-End) and Node.js (Back-End), and I’m determined to expand my knowledge in this field. The language I’ve written the most lines of code in is Java—it was the language that led me to my passion for development. 🚀
+</li>
+<li> <strong> Who I am: </strong> I’m Nikolas from Berlin, Germany 📍. I’m currently in the 11th grade at a German Gymnasium, with a focus on Math and Computer Science. </li>
+<li> <strong>What have I developed: </strong> In the past, I’ve developed numerous Minecraft plugins using Bukkit, Spigot, and Paper. I also built several web applications with pure HTML, CSS, and JavaScript back then. However, I’ve since transitioned to React and CSS libraries like Tailwind CSS. Meanwhile, my backend knowledge is steadily growing as I work with Node.js. 💙</li>
+</ul>
 
 ###
 <hr>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-  </div>
-<hr>
+<div align="center"><h2>Tools & Technologies</h2></div>
+
+<p align="center">
+  <strong >Programming Languages:</strong><br>
+    <img src="https://skillicons.dev/icons?i=html,css,java,javascript,typescript" />
+</p>
+
+<p align="center">
+  <!-- Development Tools -->
+  <strong>Development Tools:</strong><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,idea,npm,vite,gradle,maven,postman" />
+</p>
+
+<p align="center">
+  <!-- Development Tools -->
+  <strong>Build Tools & Package Manager:</strong><br>
+    <img src="https://skillicons.dev/icons?i=npm,gradle,maven" />
+</p>
+
+<p align="center">
+  <strong>Frameworks & Libraries:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,express" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Other Technologies</strong><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,figma,discord,windows,ubuntu" />
+</p>
+
 
 ###
-
+<div align="center"><h2>Most used Languages: </h2></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolas-bott&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <!--<img src="https://streak-stats.demolab.com?user=nikolas-bott&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolas-bott&radius=16&theme=react&area=true&order=5&custom_title=Contributions" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 ###
 <hr>
-<h3 align=center>Contact:</h3>
-<h5 align=center>---------- E-Mail: nikolasbott@gmail.com | Discord: ssaloking ----------</h5>
+<div align="center"><h3>Contact: </h3></div>
+
+<h5 align=center>---------- E-Mail: <a href="mailto:nikolasbott@gmail.com">nikolasbott@gmail.com</a> | Discord: ssaloking ----------</h5>
