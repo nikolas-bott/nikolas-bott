@@ -32,19 +32,19 @@
 <p align="center">
   <!-- Development Tools -->
   <strong>Build Tools & Package Manager:</strong><br>
-    <img src="https://skillicons.dev/icons?i=npm,gradle,maven" />
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,gradle,maven" />
 </p>
 
 <p align="center">
   <strong>Frameworks & Libraries:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,express" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,express" />
   </a>
 </p>
 
 <p align="center">
   <strong>Other Technologies</strong><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,figma,discord,windows,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=nodejs,figma,discord,windows,prisma,postgres,ubuntu" />
 </p>
 
 
